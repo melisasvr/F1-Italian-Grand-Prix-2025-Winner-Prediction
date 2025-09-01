@@ -1,4 +1,4 @@
-# F1 Grand Prix 2025 Prediction Script 🏎️
+# F1 Italian Grand Prix 2025 Prediction Script 🏎️
 - This Python script, f1_italian_grand.py, predicts the winner of the Italian Grand Prix based on a weighted analysis of recent race results and various performance factors.
 
 ## How It Works ⚙️
